@@ -1,0 +1,568 @@
+[18-Jun-2024 03:48:43 UTC] WordPress database error Table 'webear84_geekme.em_config_apiKey_MiPaquete' doesn't exist for query SELECT * FROM em_config_apiKey_MiPaquete WHERE email_user_registred='financiero@geekme.co'
+    AND development_environment =1 made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, mpqAdminInit, createTableMipaquete
+[20-Jun-2024 06:25:25 UTC] TFA: Beginning attempt to port private key encryption over to openssl
+[26-Jun-2024 00:12:01 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:12:22 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:12:22 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:13:07 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:13:12 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:13:21 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:13:21 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:13:21 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:13:21 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:13:39 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:13:50 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:13:58 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:14:02 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:14:02 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:14:02 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:14:02 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:14:36 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:14:36 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:14:36 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:14:36 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:15:21 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:15:26 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:15:27 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:15:27 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:15:27 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:15:27 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:15:27 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:15:52 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:16:00 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:16:08 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:16:15 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:16:15 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:16:15 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:16:16 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:16:16 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:16:16 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:16:16 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:16:16 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:16:51 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:17:06 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:17:06 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:17:06 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:17:06 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:17:06 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:17:06 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:18:18 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:18:18 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:18:18 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:18:18 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:31:13 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:31:13 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:31:14 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:31:14 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:32:20 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:32:21 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:32:21 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:32:21 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:34:12 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:41:39 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:41:39 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:41:39 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:41:39 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:41:59 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:41:59 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:41:59 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:41:59 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:42:54 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[26-Jun-2024 00:42:54 UTC] The woocommerce_placeholder_img_src function is deprecated since version 3.0. Replace with wc_placeholder_img_src.
+[29-Jun-2024 17:57:33 UTC] WordPress database error Table 'webear84_geekme.wp_pps_popup' doesn't exist for query UPDATE wp_pps_popup SET css = REPLACE(css, "#ppsPopupShell_[ID] .ppsSubscribeShell input[type=text],#ppsPopupShell_[ID] .ppsSubscribeShell input[name=\"email\"]", "#ppsPopupShell_[ID] .ppsSubscribeShell input[type=text][name=\"email\"]") made by activate_plugin, plugin_sandbox_scrape, include_once('/plugins/popup-by-supsystic/pps.php'), installerPps::update, installerPps::init, installerPps::makeTextFieldsCssUpdate, dbPps::query
+[29-Jun-2024 17:57:33 UTC] WordPress database error Table 'webear84_geekme.wp_pps_popup' doesn't exist for query UPDATE wp_pps_popup SET css = REPLACE(css, "#ppsPopupShell_[ID] .ppsSubscribeShell input[type=text],#ppsPopupShell_[ID] .ppsSubscribeShell input[name=\"email\"]", "#ppsPopupShell_[ID] .ppsSubscribeShell input[type=text][name=\"email\"]") made by activate_plugin, plugin_sandbox_scrape, include_once('/plugins/popup-by-supsystic/pps.php'), installerPps::update, installerPps::init, installerPps::makeTextFieldsCssUpdateRound2, dbPps::query
+[06-Jul-2024 05:01:15 UTC] PHP Warning:  Undefined array key "refres" in /home1/webear84/geekme.co/wp-content/plugins/aveonline-master/src/includes/class-shipping.php on line 313
+[06-Jul-2024 05:43:42 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/webear84/geekme.co/wp-content/plugins/plugin-woocommerce-agregador-master/woocommerce-agregador-payco.php on line 316
+[06-Jul-2024 05:48:52 UTC] body is stdClass Object
+(
+    [id] => 31721589908010868815313431588
+    [description] => Fix null
+    [version] => 2.4.35
+    [versionNumber] => 112
+    [createdDate] => 2024-06-29T03:14:08.382
+)
+
+[06-Jul-2024 05:48:52 UTC] latest version code is 112
+[06-Jul-2024 06:04:16 UTC] body is stdClass Object
+(
+    [id] => 31721589908010868815313431588
+    [description] => Fix null
+    [version] => 2.4.35
+    [versionNumber] => 112
+    [createdDate] => 2024-06-29T03:14:08.382
+)
+
+[06-Jul-2024 06:04:16 UTC] latest version code is 112
+[06-Jul-2024 06:08:29 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/webear84/geekme.co/wp-content/plugins/plugin-woocommerce-agregador-master/woocommerce-agregador-payco.php on line 316
+[06-Jul-2024 06:25:37 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/webear84/geekme.co/wp-content/plugins/plugin-woocommerce-agregador-master/woocommerce-agregador-payco.php on line 316
+[06-Jul-2024 06:48:52 UTC] PHP Warning:  Undefined array key "_super_product_a" in /home1/webear84/geekme.co/wp-content/plugins/plugin-woocommerce-agregador-master/woocommerce-agregador-payco.php on line 444
+[06-Jul-2024 19:44:30 UTC] body is stdClass Object
+(
+    [id] => 31721589908010868815313431588
+    [description] => Fix null
+    [version] => 2.4.35
+    [versionNumber] => 112
+    [createdDate] => 2024-06-29T03:14:08.382
+)
+
+[06-Jul-2024 19:44:30 UTC] latest version code is 112
+[06-Jul-2024 19:59:27 UTC] body is stdClass Object
+(
+    [id] => 31721589908010868815313431588
+    [description] => Fix null
+    [version] => 2.4.35
+    [versionNumber] => 112
+    [createdDate] => 2024-06-29T03:14:08.382
+)
+
+[06-Jul-2024 19:59:27 UTC] latest version code is 112
+[08-Jul-2024 20:34:32 UTC] PHP Warning:  Undefined array key "_super_product_a" in /home1/webear84/geekme.co/wp-content/plugins/plugin-woocommerce-agregador-master/woocommerce-agregador-payco.php on line 444
+[08-Jul-2024 20:35:16 UTC] PHP Warning:  Undefined array key "_super_product_a" in /home1/webear84/geekme.co/wp-content/plugins/plugin-woocommerce-agregador-master/woocommerce-agregador-payco.php on line 444
+[08-Jul-2024 20:40:26 UTC] PHP Warning:  Undefined array key "_super_product_a" in /home1/webear84/geekme.co/wp-content/plugins/plugin-woocommerce-agregador-master/woocommerce-agregador-payco.php on line 444
+[08-Jul-2024 20:49:54 UTC] PHP Warning:  Undefined array key "_super_product_a" in /home1/webear84/geekme.co/wp-content/plugins/plugin-woocommerce-agregador-master/woocommerce-agregador-payco.php on line 444
+[08-Jul-2024 20:51:36 UTC] PHP Warning:  Undefined array key "_super_product_a" in /home1/webear84/geekme.co/wp-content/plugins/plugin-woocommerce-agregador-master/woocommerce-agregador-payco.php on line 444
+[08-Jul-2024 21:22:57 UTC] PHP Warning:  Undefined array key "_super_product_a" in /home1/webear84/geekme.co/wp-content/plugins/plugin-woocommerce-agregador-master/woocommerce-agregador-payco.php on line 444
+[08-Jul-2024 22:37:37 UTC] PHP Warning:  Undefined array key "refres" in /home1/webear84/geekme.co/wp-content/plugins/aveonline-master/src/includes/class-shipping.php on line 313
+[08-Jul-2024 22:40:55 UTC] PHP Warning:  Undefined array key "refres" in /home1/webear84/geekme.co/wp-content/plugins/aveonline-master/src/includes/class-shipping.php on line 313
+[08-Jul-2024 22:43:53 UTC] PHP Warning:  Undefined array key "refres" in /home1/webear84/geekme.co/wp-content/plugins/aveonline-master/src/includes/class-shipping.php on line 313
+[08-Jul-2024 22:59:09 UTC] PHP Warning:  Undefined array key "refres" in /home1/webear84/geekme.co/wp-content/plugins/aveonline-master/src/includes/class-shipping.php on line 313
+[08-Jul-2024 23:06:07 UTC] PHP Warning:  Undefined array key "refres" in /home1/webear84/geekme.co/wp-content/plugins/aveonline-master/src/includes/class-shipping.php on line 313
+[08-Jul-2024 23:06:34 UTC] PHP Warning:  Undefined array key "refres" in /home1/webear84/geekme.co/wp-content/plugins/aveonline-master/src/includes/class-shipping.php on line 313
+[08-Jul-2024 23:07:27 UTC] PHP Warning:  Undefined array key "refres" in /home1/webear84/geekme.co/wp-content/plugins/aveonline-master/src/includes/class-shipping.php on line 313
+[08-Jul-2024 23:11:58 UTC] PHP Warning:  Undefined array key "refres" in /home1/webear84/geekme.co/wp-content/plugins/aveonline-master/src/includes/class-shipping.php on line 313
+[08-Jul-2024 23:13:35 UTC] PHP Warning:  Undefined array key "refres" in /home1/webear84/geekme.co/wp-content/plugins/aveonline-master/src/includes/class-shipping.php on line 313
+[08-Jul-2024 23:20:42 UTC] PHP Warning:  Undefined array key "refres" in /home1/webear84/geekme.co/wp-content/plugins/aveonline-master/src/includes/class-shipping.php on line 313
+[08-Jul-2024 23:22:18 UTC] PHP Warning:  Undefined array key "refres" in /home1/webear84/geekme.co/wp-content/plugins/aveonline-master/src/includes/class-shipping.php on line 313
+[08-Jul-2024 23:22:23 UTC] PHP Warning:  Undefined array key "refres" in /home1/webear84/geekme.co/wp-content/plugins/aveonline-master/src/includes/class-shipping.php on line 313
+[08-Jul-2024 23:32:24 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/webear84/geekme.co/wp-content/plugins/plugin-woocommerce-agregador-master/woocommerce-agregador-payco.php on line 316
+[09-Jul-2024 04:13:53 UTC] PHP Warning:  Undefined property: stdClass::$edit_page in /home1/webear84/geekme.co/wp-includes/capabilities.php on line 234
+[09-Jul-2024 04:13:53 UTC] PHP Warning:  Undefined property: stdClass::$edit_page in /home1/webear84/geekme.co/wp-includes/capabilities.php on line 234
+[09-Jul-2024 04:15:33 UTC] PHP Warning:  Array to string conversion in /home1/webear84/geekme.co/wp-includes/formatting.php on line 1108
+[09-Jul-2024 04:15:33 UTC] PHP Warning:  Undefined array key "_super_product_a" in /home1/webear84/geekme.co/wp-content/plugins/plugin-woocommerce-agregador-master/woocommerce-agregador-payco.php on line 444
+[09-Jul-2024 04:19:18 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/webear84/geekme.co/wp-content/plugins/plugin-woocommerce-agregador-master/woocommerce-agregador-payco.php on line 316
+[09-Jul-2024 04:21:18 UTC] PHP Warning:  Array to string conversion in /home1/webear84/geekme.co/wp-includes/formatting.php on line 1108
+[09-Jul-2024 04:21:18 UTC] PHP Warning:  Undefined array key "_super_product_a" in /home1/webear84/geekme.co/wp-content/plugins/plugin-woocommerce-agregador-master/woocommerce-agregador-payco.php on line 444
+[09-Jul-2024 04:40:27 UTC] PHP Warning:  Undefined property: stdClass::$edit_page in /home1/webear84/geekme.co/wp-includes/capabilities.php on line 234
+[09-Jul-2024 04:40:27 UTC] PHP Warning:  Undefined property: stdClass::$edit_page in /home1/webear84/geekme.co/wp-includes/capabilities.php on line 234
+[09-Jul-2024 04:43:15 UTC] PHP Warning:  Array to string conversion in /home1/webear84/geekme.co/wp-includes/formatting.php on line 1108
+[09-Jul-2024 04:43:15 UTC] PHP Warning:  Undefined array key "_super_product_a" in /home1/webear84/geekme.co/wp-content/plugins/plugin-woocommerce-agregador-master/woocommerce-agregador-payco.php on line 444
+[09-Jul-2024 04:52:52 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/webear84/geekme.co/wp-content/plugins/plugin-woocommerce-agregador-master/woocommerce-agregador-payco.php on line 316
+[09-Jul-2024 15:35:13 UTC] PHP Warning:  Undefined array key "refres" in /home1/webear84/geekme.co/wp-content/plugins/aveonline-master/src/includes/class-shipping.php on line 313
+[09-Jul-2024 15:39:32 UTC] PHP Warning:  Undefined array key "refres" in /home1/webear84/geekme.co/wp-content/plugins/aveonline-master/src/includes/class-shipping.php on line 313
+[09-Jul-2024 17:33:29 UTC] PHP Warning:  Array to string conversion in /home1/webear84/geekme.co/wp-includes/formatting.php on line 1108
+[09-Jul-2024 17:33:29 UTC] PHP Warning:  Undefined array key "_super_product_a" in /home1/webear84/geekme.co/wp-content/plugins/plugin-woocommerce-agregador-master/woocommerce-agregador-payco.php on line 444
+[10-Jul-2024 17:47:52 UTC] body is stdClass Object
+(
+    [id] => 31721589908010868815313431588
+    [description] => Fix null
+    [version] => 2.4.35
+    [versionNumber] => 112
+    [createdDate] => 2024-06-29T03:14:08.382
+)
+
+[10-Jul-2024 17:47:52 UTC] latest version code is 112
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "VIC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "VAU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "VAC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "TOL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "SUC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "SAN" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "SAP" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "RIS" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "QUI" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "PUT" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "NOR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "NAR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "MET" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "MAG" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "GUJ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "HUI" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "GUV" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "GUA" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "CUN" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "COR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "CHOC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "CES" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "CAU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "CAS" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "CAQ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "CAL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "BOY" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "BOL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "ATL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "ARU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "ANT" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] PHP Warning:  Undefined array key "AMZ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:35 UTC] body is stdClass Object
+(
+    [id] => 31721589908010868815313431588
+    [description] => Fix null
+    [version] => 2.4.35
+    [versionNumber] => 112
+    [createdDate] => 2024-06-29T03:14:08.382
+)
+
+[10-Jul-2024 17:48:35 UTC] latest version code is 112
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "VIC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "VAU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "VAC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "TOL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "SUC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "SAN" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "SAP" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "RIS" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "QUI" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "PUT" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "NOR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "NAR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "MET" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "MAG" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "GUJ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "HUI" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "GUV" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "GUA" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "CUN" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "COR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "CHOC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "CES" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "CAU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "CAS" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "CAQ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "CAL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "BOY" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "BOL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "ATL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "ARU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "ANT" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:50 UTC] PHP Warning:  Undefined array key "AMZ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "VIC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "VAU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "VAC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "TOL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "SUC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "SAN" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "SAP" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "RIS" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "QUI" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "PUT" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "NOR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "NAR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "MET" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "MAG" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "GUJ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "HUI" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "GUV" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "GUA" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "CUN" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "COR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "CHOC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "CES" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "CAU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "CAS" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "CAQ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "CAL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "BOY" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "BOL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "ATL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "ARU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "ANT" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:56 UTC] PHP Warning:  Undefined array key "AMZ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "VIC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "VAU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "VAC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "TOL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "SUC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "SAN" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "SAP" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "RIS" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "QUI" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "PUT" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "NOR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "NAR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "MET" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "MAG" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "GUJ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "HUI" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "GUV" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "GUA" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "CUN" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "COR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "CHOC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "CES" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "CAU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "CAS" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "CAQ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "CAL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "BOY" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "BOL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "ATL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "ARU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "ANT" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:48:57 UTC] PHP Warning:  Undefined array key "AMZ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "VIC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "VAU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "VAC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "TOL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "SUC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "SAN" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "SAP" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "RIS" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "QUI" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "PUT" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "NOR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "NAR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "MET" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "MAG" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "GUJ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "HUI" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "GUV" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "GUA" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CUN" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "COR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CHOC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CES" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CAU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CAS" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CAQ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CAL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "BOY" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "BOL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "ATL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "ARU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "ANT" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "AMZ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "VIC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "VAU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "VAC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "TOL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "SUC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "SAN" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "SAP" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "RIS" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "QUI" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "PUT" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "NOR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "NAR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "MET" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "MAG" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "GUJ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "HUI" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "GUV" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "GUA" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CUN" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "COR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CHOC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CES" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CAU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CAS" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CAQ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CAL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "BOY" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "BOL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "ATL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "ARU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "ANT" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "AMZ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "VIC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "VAU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "VAC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "TOL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "SUC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "SAN" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "SAP" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "RIS" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "QUI" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "PUT" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "NOR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "NAR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "MET" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "MAG" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "GUJ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "HUI" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "GUV" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "GUA" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CUN" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "COR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CHOC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CES" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CAU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CAS" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CAQ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CAL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "BOY" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "BOL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "ATL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "ARU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "ANT" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "AMZ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "VIC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "VAU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "VAC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "TOL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "SUC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "SAN" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "SAP" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "RIS" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "QUI" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "PUT" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "NOR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "NAR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "MET" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "MAG" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "GUJ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "HUI" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "GUV" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "GUA" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CUN" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "COR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CHOC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CES" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CAU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CAS" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CAQ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CAL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "BOY" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "BOL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "ATL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "ARU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "ANT" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "AMZ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "VIC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "VAU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "VAC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "TOL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "SUC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "SAN" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "SAP" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "RIS" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "QUI" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "PUT" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "NOR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "NAR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "MET" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "MAG" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "GUJ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "HUI" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "GUV" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "GUA" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CUN" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "COR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CHOC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CES" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CAU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CAS" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CAQ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CAL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "BOY" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "BOL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "ATL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "ARU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "ANT" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "AMZ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "VIC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "VAU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "VAC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "TOL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "SUC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "SAN" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "SAP" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "RIS" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "QUI" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "PUT" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "NOR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "NAR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "MET" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "MAG" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "GUJ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "HUI" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "GUV" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "GUA" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CUN" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "COR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CHOC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CES" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CAU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CAS" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CAQ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "CAL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "BOY" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "BOL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "ATL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "ARU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "ANT" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:49:05 UTC] PHP Warning:  Undefined array key "AMZ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "VIC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "VAU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "VAC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "TOL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "SUC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "SAN" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "SAP" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "RIS" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "QUI" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "PUT" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "NOR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "NAR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "MET" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "MAG" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "GUJ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "HUI" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "GUV" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "GUA" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "CUN" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "COR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "CHOC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "CES" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "CAU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "CAS" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "CAQ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "CAL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "BOY" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "BOL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "ATL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "ARU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "ANT" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "AMZ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "VIC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "VAU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "VAC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "TOL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "SUC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "SAN" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "SAP" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "RIS" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "QUI" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "PUT" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "NOR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "NAR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "MET" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "MAG" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "GUJ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "HUI" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "GUV" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "GUA" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "CUN" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "COR" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "CHOC" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "CES" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "CAU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "CAS" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "CAQ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "CAL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "BOY" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "BOL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "ATL" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "ARU" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "ANT" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 17:51:03 UTC] PHP Warning:  Undefined array key "AMZ" in /home1/webear84/geekme.co/wp-content/plugins/woocommerce/includes/class-wc-shipping-zone.php on line 130
+[10-Jul-2024 18:09:54 UTC] PHP Warning:  Undefined property: stdClass::$edit_page in /home1/webear84/geekme.co/wp-includes/capabilities.php on line 234
+[10-Jul-2024 18:10:05 UTC] PHP Warning:  Undefined property: stdClass::$edit_page in /home1/webear84/geekme.co/wp-includes/capabilities.php on line 234
+[10-Jul-2024 18:10:35 UTC] PHP Warning:  Undefined property: stdClass::$edit_page in /home1/webear84/geekme.co/wp-includes/capabilities.php on line 234
+[12-Aug-2024 00:53:23 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `em_options` WHERE `option_name` = '_site_transient_timeout_wp_theme_files_patterns-acf29f3268b0aefe068bebcf31c5899c' made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, _register_theme_block_patterns, WP_Theme->get_block_patterns, WP_Theme->get_pattern_cache, get_site_transient, delete_site_option, delete_network_option, delete_option
+[12-Aug-2024 00:53:23 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `em_options` WHERE `option_name` = '_site_transient_timeout_wp_theme_files_patterns-acf29f3268b0aefe068bebcf31c5899c' made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, _register_theme_block_patterns, WP_Theme->get_block_patterns, WP_Theme->get_pattern_cache, get_site_transient, delete_site_option, delete_network_option, delete_option
+[24-Nov-2024 02:36:27 UTC] PHP Fatal error:  Uncaught Ai1wm_Not_Writable_Exception: Unable to write to: /home1/webear84/geekme.co/wp-content/plugins/All-In-One-WP-Migration-With-Import-master/storage/error.log. <a href="https://help.servmask.com/knowledgebase/invalid-file-permissions/" target="_blank">Technical details</a> in /home1/webear84/geekme.co/wp-content/plugins/All-In-One-WP-Migration-With-Import-master/functions.php:1159
+Stack trace:
+#0 /home1/webear84/geekme.co/wp-content/plugins/All-In-One-WP-Migration-With-Import-master/lib/model/class-ai1wm-log.php(80): ai1wm_write(Resource id #2070, 'Nov 24 2024 02:...')
+#1 /home1/webear84/geekme.co/wp-content/plugins/All-In-One-WP-Migration-With-Import-master/lib/model/class-ai1wm-handler.php(38): Ai1wm_Log::error(Array)
+#2 [internal function]: Ai1wm_Handler::error(2, 'mkdir(): Disk q...', '/home1/webear84...', 40)
+#3 /home1/webear84/geekme.co/wp-content/plugins/All-In-One-WP-Migration-With-Import-master/functions.php(40): mkdir('/home1/webear

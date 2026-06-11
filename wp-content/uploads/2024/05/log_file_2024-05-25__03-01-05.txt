@@ -1,0 +1,74 @@
+
+---Archivos descargados---
+Los archivos de importación para weiboo Demo Import ¡han sido descargados correctamente!
+Tiempo de ejecución máximo inicial = 120
+Información de archivos:
+URL del sitio = http://localhost/geekme
+Archivo de datos = C:\xampp\htdocs\geekme/wp-content/uploads/2024/05/demo-content-import-file_2024-05-25__03-01-05.xml
+Archivo de widget = ¡no definido!
+Archivo del personalizador = ¡no definido!
+Archivos de Redux:
+ weiboo_option -> C:\xampp\htdocs\geekme/wp-content/uploads/2024/05/demo-redux-import-file_0-2024-05-25__03-01-05.json 
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+---Ajustes de importación de Redux---
+¡La importación de los ajustes de Redux weiboo_option ha finalizado correctamente!
+
+---ocdi/after_import---
+

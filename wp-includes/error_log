@@ -1,0 +1,8 @@
+[03-Nov-2024 16:05:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/webear84/geekme.co/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/webear84/geekme.co/wp-includes/class.wp-styles.php on line 11
+[03-Nov-2024 16:05:16 America/Chicago] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/webear84/geekme.co/wp-includes/wp-diff.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/webear84/geekme.co/wp-includes/wp-diff.php on line 13
