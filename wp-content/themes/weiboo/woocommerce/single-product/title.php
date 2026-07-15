@@ -26,13 +26,13 @@ $status = $product->get_stock_status();
 // 'onbackorder' , 'outofstock' , 'instock'
 
 if( $status == 'instock' ){
-	$stock = 'In Stock';
+	$stock = esc_html__( 'In Stock', 'weiboo' );
 } elseif( $status == 'onbackorder' ){
-	$stock = '<i class="rt-check"></i> Backorders';
+	$stock = '<i class="rt-check"></i> ' . esc_html__( 'Backorders', 'weiboo' );
 } elseif( $status == 'outofstock' ){
-	$stock = 'Out Of Stock';
+	$stock = esc_html__( 'Out Of Stock', 'weiboo' );
 }else{
-	$stock = 'In Stock';
+	$stock = esc_html__( 'In Stock', 'weiboo' );
 }
 ?>
 <h1 class="product_title entry-title"><?php the_title(); ?> <span class="stock <?php echo esc_attr($status); ?>"><?php echo wp_kses_post($stock); ?></span></h1>
